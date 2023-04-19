@@ -1,0 +1,9 @@
+name: 'llama_index'
+description: 'GitHub Action for llama_index'
+author: 0x50fc@gmail.com
+branding:
+  icon: 'cloud'
+  color: 'orange'
+runs:
+  using: docker
+  image: Dockerfile
